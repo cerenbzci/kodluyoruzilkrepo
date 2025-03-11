@@ -4,18 +4,22 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
 # Installation
 Öncelikle projeyi klonluyoruz.
+```bash
 https://github.com/cerenbzci/kodluyoruzilkrepo.git
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Windows için:
 
+```windows
 cd kodluyoruzilkrepo
 code .
+```
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# License
+## License
 https://choosealicense.com/licenses/mit/
