@@ -1,5 +1,6 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
+
 ![Ekran Görüntüsü (10)](https://github.com/user-attachments/assets/4a4612de-443a-4be1-8f56-2860e7608dfb)
 
 # Installation
